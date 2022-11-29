@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lidorbali/tstitest/static/css/main.eb12f8d2.css",
+    "main.js": "/lidorbali/tstitest/static/js/main.5e0ba318.js",
+    "static/media/ZvikaForceLogo.jpg": "/lidorbali/tstitest/static/media/ZvikaForceLogo.d1c6607103bb6bd63cdb.jpg",
+    "index.html": "/lidorbali/tstitest/index.html",
+    "main.eb12f8d2.css.map": "/lidorbali/tstitest/static/css/main.eb12f8d2.css.map",
+    "main.5e0ba318.js.map": "/lidorbali/tstitest/static/js/main.5e0ba318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb12f8d2.css",
+    "static/js/main.5e0ba318.js"
+  ]
+}
